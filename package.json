@@ -1,0 +1,25 @@
+{
+  "name": "net-salary-calculator",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitoSpence/Net-salary-Calculator.git"
+  },
+  "author": "Spencer Mwenda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitoSpence/Net-salary-Calculator/issues"
+  },
+  "homepage": "https://github.com/PapitoSpence/Net-salary-Calculator#readme"
+}
